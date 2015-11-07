@@ -1,7 +1,7 @@
 {
   "name": "cordova-hook-extend-plist",
   "version": "0.0.0",
-  "description": "Adds entries into the app's plist file."
+  "description": "Adds entries into the app's plist file.",
   "main": "index.js",
   "author": {
     "name": "Johnny Hauser",
